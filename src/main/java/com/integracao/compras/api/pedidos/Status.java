@@ -1,4 +1,4 @@
-package integracao.compras.api.pedidos;
+package com.integracao.compras.api.pedidos;
 
 public enum Status {
 
